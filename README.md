@@ -18,52 +18,46 @@
 
 ## About me
 
-* 🎓 IT student based in **Plzeň, Czech Republic**, graduating in **2028**
-* 🚀 Solo developer of **Střední AI**, an AI career assistant helping students choose schools and career paths
-* 🧠 Focused on **backend engineering, applied AI/ML, databases, and production deployment**
-* 🏆 Regular participant and winner of startup competitions, CTFs, and international hackathons
-* 🌍 Czech **B2** · English **B2** · Ukrainian & Russian **native**
+- 🎓 IT student based in **Plzeň, Czech Republic**, graduating in **2028**
+- 🚀 Co-founder and the only developer behind **Střední AI**, an AI career assistant helping students choose schools and career paths
+- 🧠 Focused on **backend engineering, applied AI/ML, databases, and production deployment**
+- 🏆 Regular participant and winner of startup competitions, CTFs, and international hackathons
 
 ## Featured projects
 
 ### 🏭 [EquipLane](https://github.com/qqxzew/equiplane)
-
 Industrial maintenance ticketing system for equipment failures, engineer assignments, repair reports, and service costs. Built from scratch with role-based access control, CSRF protection, prepared statements, Docker deployment, and CI.
 
 `PHP 8.2` `MariaDB` `PDO` `Docker` `Caddy` `GitHub Actions` `Tailwind CSS`
 
 ### 🌿 [Klidná Praha](https://github.com/qqxzew/KlidnaPraha)
-
 Comfort-focused route planner for Prague. It combines noise maps, real-time air-quality data, terrain slope, green zones, and public transport data to recommend calmer walking routes.
 
 `Python` `Node.js` `GraphHopper` `GeoJSON` `Docker` `Mapbox` `Open Data`
 
 ### 🔥 [PINN for the 1D Heat Equation](https://github.com/qqxzew/pinn-heat-equation)
-
 Physics-Informed Neural Network that reconstructs a continuous temperature field from sparse and noisy measurements while respecting the underlying heat equation.
 
 `Python` `PyTorch` `Autograd` `Scientific ML` `PDEs` `Matplotlib`
 
 ### 🧦 [SSSocks](https://github.com/qqxzew/SSSocks)
-
 E-commerce backend for premium socks, designed with fault tolerance and high-load architecture in mind.
 
 `PHP` `Nette` `Redis` `MySQL` `Docker` `PHPUnit` `PHPStan`
 
 ### 🎙️ [UTEACH.AI](https://github.com/honzas83/uteach)
-
 Lecture and audio transcription platform developed for the Faculty of Applied Sciences at the University of West Bohemia. Supports multiple audio formats, asynchronous processing, automated tests, Docker, and CI/CD.
 
 `Python` `Flask` `ASR` `Docker` `GitHub Actions` `AWS` `Terraform`
 
 ## Selected achievements
 
-* 🏆 **HackKošice 2026** — 1st place in the **MLH Gemini API Challenge**, Top 3 overall among 54 finalist teams
-* 🥇 **Czech AI Olympiad 2026** — 1st place in the regional **AI Tech** category
-* 🥇 **Haxagon Skirmish CTF 2026** — 1st regionally and 11th in the Czech Republic
-* 🥇 **Open Data Hackathon 2025** — 1st place with **SafeLight**, a route-safety visualization platform
-* 🏅 **ETHPrague 2026** — **Best Hardware Usage** award
-* 🚀 **Startupuj** — Top 3 out of 60 teams with **Střední AI**
+- 🏆 **HackKošice 2026** — 1st place in the **MLH Gemini API Challenge** after advancing to the Top 3 out of 17 teams in the challenge
+- 🥇 **Czech AI Olympiad 2026** — 1st place in the regional **AI Tech** category
+- 🥇 **Haxagon Skirmish CTF 2026** — 1st regionally and 11th in the Czech Republic
+- 🥇 **Open Data Hackathon 2025** — 1st place with **SafeLight**, a route-safety visualization platform
+- 🏅 **ETHPrague 2026** — **Best Hardware Usage** award
+- 🚀 **Startupuj** — Top 3 out of 60 teams with **Střední AI**
 
 ## Tech stack
 
@@ -78,8 +72,12 @@ Lecture and audio transcription platform developed for the Faculty of Applied Sc
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qqxzew&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Andrii's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqxzew&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qqxzew&theme=github_dark" alt="Andrii's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qqxzew&theme=github_dark" alt="Repositories by language" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qqxzew&theme=github_dark" alt="Andrii's GitHub activity graph" />
 </p>
 
 ## Let's connect
