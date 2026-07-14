@@ -1,85 +1,99 @@
-<h1 align="center">Andrii Fedorov</h1>
-
 <p align="center">
-  <b>Backend developer · PHP / Nette</b><br>
-  Plzeň, Czech Republic
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=190&section=header&text=Andrii%20Fedorov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Hackathon%20Winner&descAlignY=58&descSize=16" alt="Andrii Fedorov header" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrii-fedorov-03b234392/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Andrii%20Fedorov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:qwertal0920@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-qwertal0920%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/qqxzew?tab=followers">
+    <img src="https://img.shields.io/github/followers/qqxzew?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
   </a>
 </p>
 
----
+<h3 align="center">I build reliable backend systems, applied-AI products, and data-driven tools.</h3>
 
-I build backend systems and ship them to production. Currently focused on **PHP + Nette**, coming from a solid procedural PHP background and moving deeper into OOP, clean architecture and caching.
+## About me
 
-I compete a lot — hackathons and CTFs — because deadlines and hostile inputs teach things tutorials don't.
+* 🎓 IT student based in **Plzeň, Czech Republic**, graduating in **2028**
+* 🚀 Solo developer of **Střední AI**, an AI career assistant helping students choose schools and career paths
+* 🧠 Focused on **backend engineering, applied AI/ML, databases, and production deployment**
+* 🏆 Regular participant and winner of startup competitions, CTFs, and international hackathons
+* 🌍 Czech **B2** · English **B2** · Ukrainian & Russian **native**
 
-- 🎓 IT student at **SŠ INFIS**, Plzeň
-- 🔨 Solo developer of **Střední AI** — an AI career assistant for students, currently going into production with SIT Port
-- 🛡️ **1st place in region / 11th in Czechia** — Haxagon Skirmish CTF (web vulnerabilities, SQL injection)
-- 🧠 **1st place** — Czech AI Olympiad, AI Tech category
-- 📫 Open to backend internships / praxe in Plzeň
+## Featured projects
 
----
+### 🏭 [EquipLane](https://github.com/qqxzew/equiplane)
 
-### Tech
+Industrial maintenance ticketing system for equipment failures, engineer assignments, repair reports, and service costs. Built from scratch with role-based access control, CSRF protection, prepared statements, Docker deployment, and CI.
 
-**Languages**
-`PHP` `Python` `C#` `SQL` `HTML` `CSS`
+`PHP 8.2` `MariaDB` `PDO` `Docker` `Caddy` `GitHub Actions` `Tailwind CSS`
 
-**Backend**
-`Nette` `FastAPI` `OOP` `REST API` `PDO` `Database design`
+### 🌿 [Klidná Praha](https://github.com/qqxzew/KlidnaPraha)
 
-**Databases & Cache**
-`MariaDB` `MySQL` `Redis`
+Comfort-focused route planner for Prague. It combines noise maps, real-time air-quality data, terrain slope, green zones, and public transport data to recommend calmer walking routes.
 
-**DevOps**
-`Docker` `Git` `GitHub Actions` `Linux` `Bash` `Caddy` `Composer`
+`Python` `Node.js` `GraphHopper` `GeoJSON` `Docker` `Mapbox` `Open Data`
 
-**Security**
-`RBAC` `CSRF protection` `SQL injection / pentesting`
+### 🔥 [PINN for the 1D Heat Equation](https://github.com/qqxzew/pinn-heat-equation)
 
----
+Physics-Informed Neural Network that reconstructs a continuous temperature field from sparse and noisy measurements while respecting the underlying heat equation.
 
-### Selected projects
+`Python` `PyTorch` `Autograd` `Scientific ML` `PDEs` `Matplotlib`
 
-**[equiplane](https://github.com/qqxzew/equiplane)** · PHP, MariaDB, PDO, Docker
-Industrial maintenance ticketing system. Role-based access control, CSRF protection, deployed to production with Docker, Caddy and Let's Encrypt.
+### 🧦 [SSSocks](https://github.com/qqxzew/SSSocks)
 
-**[SSSocks](https://github.com/qqxzew/SSSocks)** · Nette, Redis, MySQL
-E-commerce platform built around fault tolerance and high-load architecture.
+E-commerce backend for premium socks, designed with fault tolerance and high-load architecture in mind.
 
-**[pinn-heat-equation](https://github.com/qqxzew/pinn-heat-equation)** · Python
-Physics-informed neural network approximating the 1D heat equation from sparse, noisy measurements.
+`PHP` `Nette` `Redis` `MySQL` `Docker` `PHPUnit` `PHPStan`
 
-**[uteach](https://github.com/honzas83/uteach)** · contributor
-Lecture-processing tool built for the Faculty of Applied Sciences, UWB. Still in active use.
+### 🎙️ [UTEACH.AI](https://github.com/honzas83/uteach)
 
----
+Lecture and audio transcription platform developed for the Faculty of Applied Sciences at the University of West Bohemia. Supports multiple audio formats, asynchronous processing, automated tests, Docker, and CI/CD.
 
-### Competitions
+`Python` `Flask` `ASR` `Docker` `GitHub Actions` `AWS` `Terraform`
 
-| Event | Result |
-|---|---|
-| Czech AI Olympiad (nvias) | 🥇 1st — AI Tech |
-| Haxagon Skirmish (CTF) | 🥇 1st in region · 11th in Czechia |
-| HackKosice | 🥇 1st — MLH Gemini API Challenge · Top 3 overall |
-| Open Data Hackathon | 🥇 1st — safelight.cz |
-| Startupuj | 🏅 Top 3 of 60 teams — Střední AI |
-| Mobility Hackathon | 🥉 3rd — LoRa crisis comms |
-| WebRace | 🥉 3rd |
-| ETHPrague | 🏅 Best Hardware Usage |
-| Co-Hackathon | 🏅 Best Use of Technology |
+## Selected achievements
 
----
+* 🏆 **HackKošice 2026** — 1st place in the **MLH Gemini API Challenge**, Top 3 overall among 54 finalist teams
+* 🥇 **Czech AI Olympiad 2026** — 1st place in the regional **AI Tech** category
+* 🥇 **Haxagon Skirmish CTF 2026** — 1st regionally and 11th in the Czech Republic
+* 🥇 **Open Data Hackathon 2025** — 1st place with **SafeLight**, a route-safety visualization platform
+* 🏅 **ETHPrague 2026** — **Best Hardware Usage** award
+* 🚀 **Startupuj** — Top 3 out of 60 teams with **Střední AI**
+
+## Tech stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qqxzew&show_icons=true&hide_border=true&theme=graywhite&hide_title=true" alt="stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqxzew&layout=compact&hide_border=true&theme=graywhite" alt="top languages" height="150">
+  <img src="https://skillicons.dev/icons?i=php,python,cs,html,css,fastapi,pytorch,mysql,redis,docker,git,githubactions,linux,bash&perline=7" alt="Technology stack" />
+</p>
+
+<p align="center">
+  <code>Nette</code> · <code>MariaDB</code> · <code>REST APIs</code> · <code>OOP</code> · <code>SQL</code> · <code>Composer</code> · <code>Caddy</code>
+</p>
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qqxzew&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Andrii's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqxzew&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used languages" />
+</p>
+
+## Let's connect
+
+I enjoy turning ambitious ideas into working products — especially in backend engineering, applied AI, open data, and hackathon environments.
+
+<p align="center">
+  <a href="mailto:qwertal0920@gmail.com"><strong>Email me</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/andrii-fedorov-03b234392/"><strong>LinkedIn</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/qqxzew"><strong>GitHub</strong></a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=110&section=footer" alt="Footer" />
 </p>
