@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="500" viewBox="0 0 1180 500" role="img" aria-labelledby="title desc">
+<title id="title">Competition record</title><desc id="desc">Selected achievements in AI, CTF, open data, startup, and hardware hackathons.</desc>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1E293B" stroke-width="1" opacity=".32"/></pattern>
+  <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1E293B" opacity=".75"/></pattern>
+  <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#69A9FF"/><stop offset=".34" stop-color="#A78BFA"/><stop offset=".68" stop-color="#FF4FD8"/><stop offset="1" stop-color="#FFB454"/></linearGradient>
+  <linearGradient id="cool" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62F5C5"/><stop offset="1" stop-color="#69A9FF"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1180" height="500" rx="26" fill="#070A0F"/><rect x="1" y="1" width="1178" height="498" rx="25" fill="none" stroke="#2B354A"/><rect width="1180" height="500" rx="26" fill="url(#grid)"/>
+<text x="40" y="50" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#FF6B6B">FIELD NOTES / COMPETITION RECORD</text>
+<text x="40" y="96" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900" fill="#F8FAFC">RESULTS, NOT DECORATION.</text>
+<text x="40" y="124" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#94A3B8">A compressed log of competitions where the work survived judges, deadlines, and demos.</text>
+<g transform="translate(40,165)"><rect width="330" height="125" rx="18" fill="#0C121C" stroke="#27334A"/><rect width="8" height="125" rx="4" fill="#F6FF5C"/>
+    <text x="28" y="46" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900" fill="#F6FF5C">01</text>
+    <text x="116" y="35" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#94A3B8">GEMINI API</text>
+    <text x="116" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#F8FAFC">HackKošice 2026</text>
+    <text x="28" y="99" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#94A3B8">Top 3 of 17 → challenge winner</text></g><g transform="translate(400,165)"><rect width="330" height="125" rx="18" fill="#0C121C" stroke="#27334A"/><rect width="8" height="125" rx="4" fill="#62F5C5"/>
+    <text x="28" y="46" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900" fill="#62F5C5">01</text>
+    <text x="116" y="35" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#94A3B8">AI TECH</text>
+    <text x="116" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#F8FAFC">Czech AI Olympiad 2026</text>
+    <text x="28" y="99" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#94A3B8">1st place in the region</text></g><g transform="translate(760,165)"><rect width="330" height="125" rx="18" fill="#0C121C" stroke="#27334A"/><rect width="8" height="125" rx="4" fill="#FF6B6B"/>
+    <text x="28" y="46" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900" fill="#FF6B6B">11</text>
+    <text x="116" y="35" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#94A3B8">NATIONAL CTF</text>
+    <text x="116" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#F8FAFC">Haxagon Skirmish 2026</text>
+    <text x="28" y="99" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#94A3B8">1st regionally · 11th in Czechia</text></g><g transform="translate(40,320)"><rect width="330" height="125" rx="18" fill="#0C121C" stroke="#27334A"/><rect width="8" height="125" rx="4" fill="#69A9FF"/>
+    <text x="28" y="46" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900" fill="#69A9FF">01</text>
+    <text x="116" y="35" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#94A3B8">OPEN DATA</text>
+    <text x="116" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#F8FAFC">Hackathon 2025</text>
+    <text x="28" y="99" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#94A3B8">SafeLight · route safety visualization</text></g><g transform="translate(400,320)"><rect width="330" height="125" rx="18" fill="#0C121C" stroke="#27334A"/><rect width="8" height="125" rx="4" fill="#A78BFA"/>
+    <text x="28" y="46" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900" fill="#A78BFA">★</text>
+    <text x="116" y="35" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#94A3B8">HARDWARE</text>
+    <text x="116" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#F8FAFC">ETHPrague 2026</text>
+    <text x="28" y="99" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#94A3B8">Best Hardware Usage</text></g><g transform="translate(760,320)"><rect width="330" height="125" rx="18" fill="#0C121C" stroke="#27334A"/><rect width="8" height="125" rx="4" fill="#FF4FD8"/>
+    <text x="28" y="46" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900" fill="#FF4FD8">TOP 3</text>
+    <text x="116" y="35" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#94A3B8">STARTUP</text>
+    <text x="116" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#F8FAFC">Startupuj</text>
+    <text x="28" y="99" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#94A3B8">Střední AI · 60 teams</text></g></svg>

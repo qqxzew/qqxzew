@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="180" viewBox="0 0 1180 180" role="img" aria-labelledby="title desc">
+<title id="title">Make it work. Make it clear. Ship it.</title><desc id="desc">Closing banner for the profile README.</desc>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1E293B" stroke-width="1" opacity=".32"/></pattern>
+  <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1E293B" opacity=".75"/></pattern>
+  <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#69A9FF"/><stop offset=".34" stop-color="#A78BFA"/><stop offset=".68" stop-color="#FF4FD8"/><stop offset="1" stop-color="#FFB454"/></linearGradient>
+  <linearGradient id="cool" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62F5C5"/><stop offset="1" stop-color="#69A9FF"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1180" height="180" rx="24" fill="#070A0F"/><rect x="1" y="1" width="1178" height="178" rx="23" fill="none" stroke="#2B354A"/>
+<rect x="0" y="0" width="1180" height="10" rx="5" fill="url(#spectrum)"/>
+<text x="48" y="78" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900" fill="#F8FAFC">MAKE IT WORK.</text>
+<text x="48" y="118" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900" fill="#62F5C5">MAKE IT CLEAR. SHIP IT.</text>
+<path d="M790 92H1110" stroke="#25334B" stroke-width="18" stroke-linecap="round"/><path d="M790 92H1110" stroke="url(#spectrum)" stroke-width="4" stroke-linecap="round"/>
+<circle cx="790" cy="92" r="12" fill="#62F5C5"/><circle cx="900" cy="92" r="12" fill="#69A9FF"/><circle cx="1010" cy="92" r="12" fill="#FF4FD8"/><circle cx="1110" cy="92" r="12" fill="#FFB454"/>
+<text x="790" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#94A3B8">IDEA</text><text x="880" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#94A3B8">SYSTEM</text><text x="990" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#94A3B8">DEMO</text><text x="1080" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#94A3B8">SHIP</text>
+</svg>
